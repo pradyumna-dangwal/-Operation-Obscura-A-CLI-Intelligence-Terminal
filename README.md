@@ -1,2 +1,5 @@
-# -Operation-Obscura-A-CLI-Intelligence-Terminal
-A fake "intelligence agency terminal" that lets users explore encrypted files, run fake missions, generate agent IDs, simulate surveillance logs, and decrypt mysterious archives. It looks real, acts weird, and makes anyone curious.
+# Operation Obscura
+
+A mysterious CLI project that simulates an intelligence terminal with encryption, surveillance, and agent ops.
+
+Use at your own risk. Some files may be... classified.
